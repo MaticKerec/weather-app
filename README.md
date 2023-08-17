@@ -35,3 +35,6 @@ This app uses the OpenWeatherMap API to fetch weather data. You need to sign up 
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
 
+![App Screenshot](assets/app_screenshot.png);
+
+
